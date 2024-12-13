@@ -1,3 +1,3 @@
 # Spotify-API-Data-Modelling
 
-#hi
+![alt text](https://github.com/s-eshwar/Spotify-API-Data-Modelling/blob/main/Flowchart.PNG)
